@@ -1,0 +1,49 @@
+header {
+    height: 100px;
+    width: 98%;
+    background: lightgray;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    border: 2px;
+    float: center
+}
+
+nav {
+    height: 100px;
+    width: 98%;
+    background: lightgray;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    float: center;
+}
+aside {
+    height: 400px;
+    width: 40%;
+    background: lightgray;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    float: right
+}
+
+section {
+    height: 400px;
+    width: 49%;
+    background: lightgray;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    float: left;
+}
+
+footer {
+    clear: both;
+    margin-bottom: 0;
+    height: 100px;
+    width: 98%;
+    padding: 10px;
+    margin: 5 px;
+    background: lightgray
+}
