@@ -47,3 +47,34 @@ footer {
     margin: 5 px;
     background: lightgray
 }
+
+article {
+    position: absolute;
+    top: 48%;
+    height: 200px;
+    width:45%;
+    padding: 5px;
+    margin: 5px;
+    background: wheat
+}
+
+h2 {
+    background:lightgray;
+    height: 40px;
+    width: 40%;
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    padding: 10px;
+    border: 5px;
+}
+p {
+    position: absolute;
+    height: 40px;
+    width: 40%;
+    background: lightgray;
+    top: 58%;
+    left: 5%;
+    padding: 10px;
+    border: 5px;
+}
